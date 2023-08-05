@@ -46,5 +46,5 @@ Feature engineering help us extract meaningful insights and improve the accuracy
 Our final product incorporate the k nearest neighbor machine learning model trained on a labeled dataset. The model will be designed to make predictions
 based on the extracted and engineered features.
 
-![Machine Learning Model](https://github.com/GayanMeerigama/Feature-visualization-on-dash-python/blob/main/Image%208-5-23%20at%209.12%20AM.jpg)]
+![Machine Learning Model](https://github.com/GayanMeerigama/Dash-app-text-input-word-embeddings-using-KNN/blob/main/Image%207-27-23%20at%202.20%20PM.jpeg)]
 
